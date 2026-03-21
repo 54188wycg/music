@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音乐</title>
+    <style>
+        /* 全局样式重置 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Microsoft Yahei", sans-serif;
+        }
+
+        /* 主容器样式 */
+        .main-wrapper {
+            display: flex;
+            max-width: 1000px;
+            margin: 50px auto;
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        /* 左侧按钮区域 - 电脑端样式 */
+        .sidebar {
+            min-width: 120px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            position: sticky;
+            top: 20px;
+            align-self: flex-start;
+        }
+
+        /* 顶部按钮区域 - 手机端样式（默认隐藏） */
+        .top-buttons {
+            display: none;
+            position: sticky;
+            top: 0;
+            background-color: white;
+            padding: 15px 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            z-index: 100;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .menu-btn {
+            padding: 12px 15px;
+            border: none;
+            border-radius: 8px;
+            background-color: #4285f4;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .menu-btn:hover, .menu-btn.active {
+            background-color: #3367d6;
+            transform: translateY(-2px);
+        }
+
+        /* 右侧音乐容器样式 */
+        .music-container {
+            flex: 1;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            min-height: 400px;
+        }
+
+        /* 歌单标题 */
+        .playlist-title {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #4285f4;
+        }
+
+        /* 单个音乐条目样式 */
+        .music-item {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin-bottom: 10px;
+            background-color: #fff;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+
+        .music-item:hover {
+            background-color: #f0f7ff;
+        }
+
+        /* 序号样式 */
+        .music-index {
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            background-color: #4285f4;
+            color: white;
+            border-radius: 50%;
+            margin-right: 20px;
+            font-weight: bold;
+        }
+
+        /* 歌曲名样式 */
+        .music-name {
+            flex: 1;
+            font-size: 16px;
+            color: #333;
+            margin-right: 20px;
+        }
+
+        /* 音频控件样式 */
+        .music-audio {
+            margin-right: 15px;
+            height: 30px;
+            min-width: 200px;
+        }
+
+        /* 下载按钮样式 */
+        .download-btn {
+            padding: 8px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+            background-color: #fbbc05;
+            color: white;
+            text-decoration: none;
+        }
+
+        .download-btn:hover {
+            background-color: #e0a800;
+        }
+
+        /* 最后一个条目去掉底部间距 */
+        .music-item:last-child {
+            margin-bottom: 0;
+        }
+
+        /* 加载状态样式 */
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+
+        /* 底部提示框样式 */
+        .footer-tip {
+            max-width: 800px;
+            margin: 20px auto 50px;
+            padding: 15px 20px;
+            background-color: #f0f0f0;
+            border-radius: 8px;
+            color: #666;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        /* 响应式适配：手机端布局 */
+        @media (max-width: 600px) {
+            /* 隐藏左侧边栏，显示顶部按钮栏 */
+            .sidebar {
+                display: none;
+            }
+            
+            .top-buttons {
+                display: block;
+            }
+            
+            .menu-btn {
+                flex: 1;
+                padding: 12px 0;
+                text-align: center;
+            }
+
+            .main-wrapper {
+                flex-direction: column;
+                margin: 20px auto;
+            }
+
+            .music-item {
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+            .music-name {
+                flex: 100%;
+                margin-right: 0;
+                margin-bottom: 5px;
+            }
+            .music-audio {
+                min-width: 100%;
+                margin-right: 0;
+                margin-bottom: 5px;
+            }
+            .download-btn {
+                width: 100%;
+                text-align: center;
+            }
+            
+            .footer-tip {
+                margin: 20px 20px 50px;
+            }
+        }
+
+        /* 新增：歌手列表样式 */
+        .singer-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 20px;
+            padding: 10px 0;
+        }
+
+        .singer-card {
+            padding: 25px 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 18px;
+            color: #333;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        .singer-card:hover {
+            background-color: #4285f4;
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <!-- 顶部按钮区域 - 手机端显示 -->
+    <div class="top-buttons">
+        <div class="button-group">
+            <button class="menu-btn active" data-target="hot.json" data-title="热歌榜">热歌榜</button>
+            <button class="menu-btn" data-target="student.json" data-title="个性要求歌单">个性要求歌单</button>
+            <!-- 新增：歌手按钮 -->
+            <button class="menu-btn" data-target="singers.json" data-title="歌手">歌手</button>
+        </div>
+    </div>
+
+    <div class="main-wrapper">
+        <!-- 左侧按钮区域 - 电脑端显示 -->
+        <div class="sidebar">
+            <button class="menu-btn active" data-target="hot.json" data-title="热歌榜">热歌榜</button>
+            <button class="menu-btn" data-target="student.json" data-title="个性要求歌单">个性要求歌单</button>
+            <!-- 新增：歌手按钮 -->
+            <button class="menu-btn" data-target="singers.json" data-title="歌手">歌手</button>
+        </div>
+
+        <!-- 右侧音乐列表区域 -->
+        <div class="music-container">
+            <h2 class="playlist-title">热歌榜</h2>
+            <div class="music-list">
+                <div class="loading">加载中...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 底部提示框 -->
+    <div class="footer-tip">
+        <p>提示：本页面提供的音乐资源仅供测试和学习使用，所有音乐版权归原作者及版权方所有。如需商业使用，请联系版权方获得授权。下载的音乐请在24小时内删除，请勿用于非法用途。</p>
+        <p>本页面的热歌榜音乐是热歌榜前30首，3月7日更新；定制另加的歌在个性要求歌单中。由于我是使用免费额度发的，网站总内容最多20MB，只能装前5首歌，其他歌均为临时URL，一天一改。班班只能周末拿到电脑，周一至周五无法更新，除前5首其它歌可能无法播放，请见谅。</p>
+    </div>
+
+    <script>
+        // 获取元素
+        const menuBtns = document.querySelectorAll('.menu-btn');
+        const musicList = document.querySelector('.music-list');
+        const playlistTitle = document.querySelector('.playlist-title');
+        let currentJson = 'hot.json';
+
+        // 自定义下载函数
+        async function downloadMusic(url, filename) {
+            try {
+                // 处理文件名特殊字符
+                const safeFilename = filename.replace(/[\\/:*?"<>|]/g, '_') + '.mp3';
+                
+                // 发起请求获取音频数据流
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('文件下载失败');
+                
+                // 将数据流转为Blob
+                const blob = await response.blob();
+                
+                // 创建临时下载链接
+                const downloadLink = document.createElement('a');
+                const objectUrl = URL.createObjectURL(blob);
+                
+                downloadLink.href = objectUrl;
+                downloadLink.download = safeFilename;
+                
+                // 触发下载
+                document.body.appendChild(downloadLink);
+                downloadLink.click();
+                
+                // 清理临时资源
+                setTimeout(() => {
+                    URL.revokeObjectURL(objectUrl);
+                    document.body.removeChild(downloadLink);
+                }, 100);
+                
+            } catch (error) {
+                alert(`下载失败: ${error.message}`);
+                console.error('下载出错:', error);
+            }
+        }
+
+        // 加载音乐列表的函数
+        function loadMusicList(jsonUrl, title) {
+            // 显示加载状态
+            musicList.innerHTML = '<div class="loading">加载中...</div>';
+            playlistTitle.textContent = title;
+
+            fetch(jsonUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('网络响应不正常');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // 清空加载提示
+                    musicList.innerHTML = '';
+
+                    // 判断是否是歌手列表数据
+                    if (jsonUrl === 'singers.json') {
+                        // 渲染歌手列表
+                        const singerListEl = document.createElement('div');
+                        singerListEl.className = 'singer-list';
+                        
+                        data.forEach(singer => {
+                            const singerCard = document.createElement('div');
+                            singerCard.className = 'singer-card';
+                            singerCard.textContent = singer.name;
+                            // 绑定歌手点击事件
+                            singerCard.addEventListener('click', () => {
+                                // 切换标题为当前歌手名
+                                playlistTitle.textContent = `${singer.name} - 歌曲列表`;
+                                // 清空歌手列表，渲染该歌手的歌曲
+                                musicList.innerHTML = '';
+                                // 渲染歌手的歌曲列表
+                                singer.songs.forEach((song, index) => {
+                                    const item = document.createElement('div');
+                                    item.className = 'music-item';
+                                    item.innerHTML = `
+                                        <div class="music-index">${index + 1}</div>
+                                        <div class="music-name">${song.name}</div>
+                                        <audio class="music-audio" controls src="${song.addr}"></audio>
+                                        <button class="download-btn" data-url="${song.addr}" data-name="${song.name}">下载</button>
+                                    `;
+                                    musicList.appendChild(item);
+                                });
+
+                                // 为下载按钮绑定事件
+                                document.querySelectorAll('.download-btn').forEach(btn => {
+                                    btn.addEventListener('click', () => {
+                                        const url = btn.getAttribute('data-url');
+                                        const name = btn.getAttribute('data-name');
+                                        downloadMusic(url, name);
+                                    });
+                                });
+                            });
+                            singerListEl.appendChild(singerCard);
+                        });
+                        musicList.appendChild(singerListEl);
+                    } else {
+                        // 原有逻辑：渲染普通歌单
+                        data.forEach((music, index) => {
+                            // 创建音乐条目容器
+                            const item = document.createElement('div');
+                            item.className = 'music-item';
+
+                            // 设置条目内容
+                            item.innerHTML = `
+                                <div class="music-index">${index + 1}</div>
+                                <div class="music-name">${music.name}</div>
+                                <audio class="music-audio" controls src="${music.addr}"></audio>
+                                <button class="download-btn" data-url="${music.addr}" data-name="${music.name}">下载</button>
+                            `;
+
+                            // 添加到容器
+                            musicList.appendChild(item);
+                        });
+
+                        // 为所有下载按钮绑定点击事件
+                        document.querySelectorAll('.download-btn').forEach(btn => {
+                            btn.addEventListener('click', () => {
+                                const url = btn.getAttribute('data-url');
+                                const name = btn.getAttribute('data-name');
+                                downloadMusic(url, name);
+                            });
+                        });
+                    }
+                })
+                .catch(error => {
+                    // 显示错误信息
+                    musicList.innerHTML = `<div class="loading">加载失败: ${error.message}</div>`;
+                    console.error('加载音乐列表出错:', error);
+                });
+        }
+
+        // 初始加载热歌榜歌单
+        loadMusicList(currentJson, '热歌榜');
+
+        // 给按钮添加点击事件
+        menuBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                // 切换所有按钮的活跃状态
+                menuBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                // 获取目标JSON和标题
+                const targetJson = btn.getAttribute('data-target');
+                const title = btn.getAttribute('data-title');
+                
+                // 加载对应的歌单/歌手列表
+                loadMusicList(targetJson, title);
+                currentJson = targetJson;
+            });
+        });
+    </script>
+</body>
+</html>

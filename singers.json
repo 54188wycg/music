@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "aespa",
+    "songs": [
+      {
+        "name": "Whiplash",
+        "addr": "https://webfs.kugou.com/202603211816/13fbf653f493c59dec00ab4241d8449e/v3/d49afe982007ba78c2d693530d358446/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx684886251_s2057756322.mp3"
+      },
+      {
+        "name": "Armageddon",
+        "addr": "https://webfs.kugou.com/202603211816/1dba3c012e01a7205ad807647b4f2490/v3/ffa51b870fd95e0c0e81184bcae3af75/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx635373282_s4066432821.mp3"
+      },
+      {
+        "name": "Supernova",
+        "addr": "https://webfs.kugou.com/202603211816/2bc00c414b9996c643683346327c75ee/v3/576cf3b6cf8fe6c8a0bd9cee60e77bf8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx630873331_s1656147666.mp3"
+      },
+      {
+        "name": "Rich Man",
+        "addr": "https://webfs.kugou.com/202603211816/908c914a961c5b3dda4edc51155d03c5/v3/d5b01c6f51d79b242e7a34390ac0f10b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx789245472_s3660945225.mp3"
+      },
+      {
+        "name": "UP",
+        "addr": "https://webfs.kugou.com/202603211816/a83c005a5a5aa82713ae0a28e31dc8a6/v3/51598dcfe341e1148adc3d733a48b9ad/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx680146194_s205718553.mp3"
+      },
+      {
+        "name": "Dirty Work",
+        "addr": "https://webfs.kugou.com/202603211816/f0fe47f1414c4f018f4b24341951d821/v3/1aef562c466a89f68aa26b157216f3db/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx767497264_s155094142.mp3"
+      },
+      {
+        "name": "Thirsty",
+        "addr": "https://webfs.kugou.com/202603211816/d8a32ed703d6c72b7b43dbba1d180f4f/v3/6f5963b00822c6c598c366e60b055a47/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx512695980_s3892043783.mp3"
+      },
+      {
+        "name": "Drama",
+        "addr": "https://webfs.kugou.com/202603211816/7af9c27741d4594af662aa6a305212c9/v3/3d52c6d606aa7c1b38179397bbe23f52/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx568671043_s1536646444.mp3"
+      },
+      {
+        "name": "Next Level",
+        "addr": "https://webfs.kugou.com/202603211816/a9d3ddad33cb71042ec6921c1acd9cc7/v3/749a7a6de62099b05001fd029d911e1e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx313927435_s3616058022.mp3"
+      },
+      {
+        "name": "Girls",
+        "addr": "https://webfs.kugou.com/202603211816/988a568057043a02fcf921049d7e532a/v3/c4abbee05a6bddeee871b4a1a9a27cac/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx425400136_s3936868062.mp3"
+      },
+      {
+        "name": "ATTITUDE",
+        "addr": "https://webfs.kugou.com/202603211816/7bf0fb26e8e5a537921fd145da0742e3/v3/9e72184089db539cdf93463fde68fbd7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx851407991_s1672695070.mp3"
+      },
+      {
+        "name": "Savage",
+        "addr": "https://webfs.kugou.com/202603211816/f2cbcf7b3b8f4054b38b8c7da5fe7c05/v3/5ac7fc68da7ae47eca87acffdf4af39f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx341033781_s3323719923.mp3"
+      },
+      {
+        "name": "Spicy",
+        "addr": "https://webfs.kugou.com/202603211816/38b1062a346da36ea5e25aaaa8dfb66a/v3/986c507e6c576f6bd4e31aaa1944c1cf/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx512695979_s1987759375.mp3"
+      },
+      {
+        "name": "BAHAMA",
+        "addr": "https://webfs.kugou.com/202603211816/48d7aa8290e2963a869b335a51d37d71/v3/a1cf9fe2495bb1a5d53fe633814ebcfb/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx635373266_s3034036385.mp3"
+      },
+      {
+        "name": "Dreams Come True",
+        "addr": "https://webfs.kugou.com/202603211816/9bafd9c44a371732852ad82eb38b7c4c/v3/0a52577484a9d21ebb1d499f8355ec99/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx360107924_s4176555837.mp3"
+      },
+      {
+        "name": "怪火 (Illusion)",
+        "addr": "https://webfs.kugou.com/202603211816/21d3618bd0fdc5a0db45dfff42084bc2/v3/88945c3082e4939b0b76e6a163ec94da/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx415295916_s2063622974.mp3"
+      },
+      {
+        "name": "Black Mamba",
+        "addr": "https://webfs.kugou.com/202603211816/7efdefa3ecf09165510c74b4eb4fe824/v3/e30b23ff943a5e23cdb408486f7da5af/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx281728422_s4055494078.mp3"
+      },
+      {
+        "name": "BLUE",
+        "addr": "https://webfs.kugou.com/202603211816/d56c901488416cab09b50fec5d1f67a5/v3/3c109972230c04a3f6c8e1fc9243ecd9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx811989216_s2373309286.mp3"
+      },
+      {
+        "name": "Spark",
+        "addr": "https://webfs.kugou.com/202603211816/ee0d6edc7ca2d1a4bbe80079f13f3746/v3/36f1e0e37405108831529fc9fa14c9e1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx680146197_s2686069223.mp3"
+      },
+      {
+        "name": "Ketchup And Lemonade",
+        "addr": "https://webfs.kugou.com/202603211816/864c3840ec56b1155cb41295b7574563/v3/57a5dc13cc77fd50df9ebe564ca2eeb6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx811989217_s4042465653.mp3"
+      },
+      {
+        "name": "清醒梦境 (Lucid Dream)",
+        "addr": "https://webfs.kugou.com/202603211816/51bef382b395e5abd20045c2527ae042/v3/d2ed8bcd996fa82d996efbd33911e599/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx341033787_s2400636970.mp3"
+      },
+      {
+        "name": "GOOD STUFF",
+        "addr": "https://webfs.kugou.com/202603211816/43af03314c250b0377d4ceb1e71ba97d/v3/d9530543e2a8e8c676bca6107e8bd4cf/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx811989214_s498562300.mp3"
+      },
+      {
+        "name": "Life's Too Short (English Ver.)",
+        "addr": "https://webfs.kugou.com/202603211816/1b06bddd3fcb39ed43001c4b79c7fc07/v3/01c1ccd1762eb1f7df9fa51a03d497ad/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx421889078_s4064805726.mp3"
+      },
+      {
+        "name": "Bored!",
+        "addr": "https://webfs.kugou.com/202603211816/12ea8cedb94a9d0fdb09aa3c7fbe1cf1/v3/cf110f48d7f5e2485c7af6a2b1e275d6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx680146193_s782802966.mp3"
+      },
+      {
+        "name": "Live My Life",
+        "addr": "https://webfs.kugou.com/202603211816/aec110ec99261c0cbb3357a6901d5a6d/v3/0d82dd02b3ac9ae3cd5286a7f9651b0a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx635373267_s1221425047.mp3"
+      },
+      {
+        "name": "Tornado",
+        "addr": "https://webfs.kugou.com/202603211816/b7060dfbd2c4dd987c34ec5d9e888859/v3/17d175089fbe3daf3d132d6e0474ad85/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx811989215_s1992408201.mp3"
+      },
+      {
+        "name": "Angel #48",
+        "addr": "https://webfs.kugou.com/202603211816/6077a48aa4c7b6963411456aa2c50ac5/v3/3716a79dd74a1c85a8b99427fcf9b20a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx789245470_s3792814496.mp3"
+      },
+      {
+        "name": "Hold On Tight",
+        "addr": "https://webfs.kugou.com/202603211816/7bd64e45e0d9243f54c6564575218a0a/v3/a0d0ca5f79c982b9f9d7557e9e0fb325/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx500140835_s4226988070.mp3"
+      },
+      {
+        "name": "Better Things",
+        "addr": "https://webfs.kugou.com/202603211816/1d577e7736c7c7b669125cdf8780b1fb/v3/6c77fbc3b9845db3f942bb76c7a8cd1a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx545144214_s2601363467.mp3"
+      },
+      {
+        "name": "Rich Man (English Ver.)",
+        "addr": "https://webfs.kugou.com/202603211816/e0c11a00038d67f36224d50390c6a02d/v3/ea19de350b0a6b72685c96b3dfbcd6f7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx792283322_s3697520862.mp3"
+      }
+    ]
+  },
+  {
+    "name": "毛不易",
+    "songs": [
+      {
+        "name": "一程山路",
+        "addr": "https://webfs.kugou.com/202603211816/0a6c8370c025fd627816b83303c2d44b/v3/f4b3d7dffa85dae7737243598153a168/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx250126644_s1111265822.mp3"
+      },
+      {
+        "name": "像我这样的人 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/582422894f35baac8cd9ed8d0dabdb63/v3/4695b8373c1af8e3262c822bfb5a55bd/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx68200394_s106940071.mp3"
+      },
+      {
+        "name": "无名的人",
+        "addr": "https://webfs.kugou.com/202603211816/3ca2f30ef09b6ebabcda4d7a8446022b/v3/525a854c4a4edf63caf528d693f69ce0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx358221756_s2045431319.mp3"
+      },
+      {
+        "name": "消愁 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/5b58716c4bab53c606b4c40ffd86ff3b/v3/0013286d034c9cb6f0f49cd49e57013c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx68025605_s2038334733.mp3"
+      },
+      {
+        "name": "牧马城市",
+        "addr": "https://webfs.kugou.com/202603211816/765cad5f3c20523629fa31124db84ab3/v3/62196876245e85ec21f4e88f0980a953/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx106809044_s833959317.mp3"
+      },
+      {
+        "name": "呓语",
+        "addr": "https://webfs.kugou.com/202603211816/b497a7ad4fa4288b4972bd6a84874305/v3/deef282bf9c65a63043b64fba3d87f69/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx250126652_s855816607.mp3"
+      },
+      {
+        "name": "平凡的一天 (DJ 王小龙版)",
+        "addr": "https://webfs.kugou.com/202603211816/fb81e37d8d3e6b1d51fad5d498aeed68/v3/5d0f2d19cfe78d2905fde19968bc24d5/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856089143_s2399427412.mp3"
+      },
+      {
+        "name": "一荤一素 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/1f109929d63b7435447041325b147fb1/v3/888a0c88154c12869b5bef9980e0488f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx249770340_s3157438026.mp3"
+      },
+      {
+        "name": "东北民谣",
+        "addr": "https://webfs.kugou.com/202603211816/c7e65fee5fa64b89929e7f18fcfbbbca/v3/0830b489d020a82ca500762502a91651/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx250126651_s3054109890.mp3"
+      },
+      {
+        "name": "借 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/f8d71326432bf80e0adc59a90d4b2278/v3/78a4878841923b540d46fa04f36acbc9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx72531283_s1965636812.mp3"
+      },
+      {
+        "name": "看得最远的地方",
+        "addr": "https://webfs.kugou.com/202603211816/09b523dd89f88b691349be5ee6e26abf/v3/d8ccc96c7cefb1ea4c869a320857b554/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx416439977_s3186744036.mp3"
+      },
+      {
+        "name": "不染",
+        "addr": "https://webfs.kugou.com/202603211816/ae5b85a63a5d43e6c9e636c6b778be04/v3/08793efeddd055da376e8af81b85a387/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx160128411_s527979611.mp3"
+      },
+      {
+        "name": "如果有一天我变得很有钱 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/a9cdf2701f0b09e2b2f8196fad41d778/v3/94f8e67844a71c8394f702968b9fa72d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx66021718_s2578357965.mp3"
+      },
+      {
+        "name": "梅香如故",
+        "addr": "https://webfs.kugou.com/202603211816/56f44d4e2a322b16a60afc8c5762d267/v3/981b5c81cfe1d96cea4423ce76f41eb7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx115034746_s1306291507.mp3"
+      },
+      {
+        "name": "盛夏 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/bc30d0997c5273da69096a47758f6669/v3/aa0d761a692be71d76fefd6a4287d0e8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx88570770_s3979364680.mp3"
+      },
+      {
+        "name": "歌曲：别来无恙",
+        "addr": "https://webfs.kugou.com/202603211816/17b44e853bae2a2334ce1af404460344/v3/6933ca408bc9eb883bfe8d30a7d47bf4/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx844839571_s2459699398.mp3"
+      },
+      {
+        "name": "一程山路 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/04a281e2cd75ce603a4dc1fb3f5dd050/v3/0c6e9439813b44e9fd38f7b3c072c372/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx68461182_s98895150.mp3"
+      },
+      {
+        "name": "黑月光",
+        "addr": "https://webfs.kugou.com/202603211816/8efcda33ce5a9ced948f5de8e0355e05/v3/34c0435bcf09c14d3df0ac7684bc482d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx501812021_s3478184353.mp3"
+      },
+      {
+        "name": "二零三 (Live)",
+        "addr": "https://webfs.kugou.com/202603211816/17dea4aaf1506f3a5988cfadfa2366d6/v3/a9373ba9d23866b5a91a70ad3462d731/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx68850152_s2267638095.mp3"
+      },
+      {
+        "name": "无问",
+        "addr": "https://webfs.kugou.com/202603211816/342387fd4161a5c09fedb1e1ab11133a/v3/5e0a74896720dccf88980bd9e7899049/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx105167122_s2893026030.mp3"
+      },
+      {
+        "name": "呓语 (Live)",
+        "addr": "https://webfs.kugou.com/202603211817/3128a650295d11bb1b06d8f08ec38879/v3/bafdc47e6f75b6b649c492f359dc21f1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx149687428_s2927756697.mp3"
+      },
+      {
+        "name": "平凡的一天 (Live)",
+        "addr": "https://webfs.kugou.com/202603211817/ed82e02bbf06564a2a86769ccc42f98a/v3/13e782dcac7c94b25e82fb43e8cb7360/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx346260620_s3787042280.mp3"
+      },
+      {
+        "name": "消愁 (Live)",
+        "addr": "https://webfs.kugou.com/202603211817/069ac8057da365c320907a3ff3fe5990/v3/f92c2b9c4cdfc5c84efa3961af65e8ac/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx105388730_s2646438709.mp3"
+      },
+      {
+        "name": "一直很安静 (Live)",
+        "addr": "https://webfs.kugou.com/202603211817/6ca54b3800b538a506080ec229ba406f/v3/8361e12970388fe1d2926e5c562f82a2/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx520698119_s2683149649.mp3"
+      },
+      {
+        "name": "心里挂念的地方才是家",
+        "addr": "https://webfs.kugou.com/202603211817/bd2440687a81acaa0171775909958b87/v3/7fe05609bb30b738d76f266b6ad9f182/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx843112660_s3168918759.mp3"
+      },
+      {
+        "name": "是的我们跳着舞",
+        "addr": "https://webfs.kugou.com/202603211817/e6da75b662734a92a39ca441cbd68c81/v3/8bbff9b02fcb61c0ce477b9842f99107/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx827249434_s782508915.mp3"
+      },
+      {
+        "name": "见信如晤",
+        "addr": "https://webfs.kugou.com/202603211817/42c385c277999abd100454070767eb6f/v3/66f4281d7b3a973e03502a0879242b59/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx601334577_s3902802208.mp3"
+      },
+      {
+        "name": "有你无你",
+        "addr": "https://webfs.kugou.com/202603211817/fac8f96ade77edea496b502ff6c9b22a/v3/4e2551c1bcc571ad5199d2e12b77b51a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx539740449_s219108240.mp3"
+      },
+      {
+        "name": "万里游",
+        "addr": "https://webfs.kugou.com/202603211817/f9314808eeddd28aa298f2db501bd159/v3/22c2cddb7c4ff0ca6a50139b6da1c7d0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx827296835_s387713733.mp3"
+      },
+      {
+        "name": "不染 (Live)",
+        "addr": "https://webfs.kugou.com/202603211817/b837cc5c63d2692936213696a359ea95/v3/f70e547a720d6b6598739dbe8fb36dd4/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx127351477_s2489480206.mp3"
+      }
+    ]
+  },
+  {
+    "name": "林俊杰",
+    "songs": [
+      {
+        "name": "Always Online",
+        "addr": "https://webfs.kugou.com/202603211817/d2312ad7a3d818676c8b5ce0385a92bc/v3/16a4e4895905b703ac0f31007a495d4c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32068125_s1869164760.mp3"
+      },
+      {
+        "name": "江南",
+        "addr": "https://webfs.kugou.com/202603211817/918a207821f0f2f077bcc47b8aed7a79/v3/819b74bd09009e0422b8f563e12ba96e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32125113_s3070401571.mp3"
+      },
+      {
+        "name": "修炼爱情",
+        "addr": "https://webfs.kugou.com/202603211817/3a934f3be3ee4c1893176f0c5ad63a78/v3/8748c12719dca9f588b1118ac05f6bf8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32148029_s2975881031.mp3"
+      },
+      {
+        "name": "美人鱼",
+        "addr": "https://webfs.kugou.com/202603211817/ce0b6f9d3e95b8c590f029cf116677f3/v3/cdae8c7e2faf7f08dc18e78a1d65117b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32125119_s246941863.mp3"
+      },
+      {
+        "name": "可惜没如果",
+        "addr": "https://webfs.kugou.com/202603211817/6d95f135c0e3d7c93338df7c4af0d955/v3/57d6eaf8f7e593a2c4b780d8045de5c1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27783247_s2685259524.mp3"
+      },
+      {
+        "name": "不潮不用花钱",
+        "addr": "https://webfs.kugou.com/202603211817/4267d9ad1419f8e0983d49bd5e44da0f/v3/5a84bba4c673bea45083c521adf366af/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32068120_s2548124648.mp3"
+      },
+      {
+        "name": "背对背拥抱",
+        "addr": "https://webfs.kugou.com/202603211817/02592524b64663f01da25bfa663fd7e6/v3/c6b5a741051fcbc1af7531ca2ceecc15/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32179991_s1705605178.mp3"
+      },
+      {
+        "name": "那些你很冒险的梦",
+        "addr": "https://webfs.kugou.com/202603211817/3de553897a1ff71660a6c9bcf29b204e/v3/468a823bd25a585841f4bc5ed3ef945b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32193232_s3290955894.mp3"
+      },
+      {
+        "name": "当你",
+        "addr": "https://webfs.kugou.com/202603211817/35a880e741afd9db4446bca91580d7ff/v3/9cfa0635c2bc5f126ab9ecff5f6626c4/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32246706_s1825636822.mp3"
+      },
+      {
+        "name": "我还想她",
+        "addr": "https://webfs.kugou.com/202603211817/ff66be870c3e62eac1eda80330d63ae4/v3/aeffbb9a2cfab59e8e1257e58cd21f22/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32068128_s2185900042.mp3"
+      },
+      {
+        "name": "愿与愁",
+        "addr": "https://webfs.kugou.com/202603211817/19e80f45c61e4dfa1b68950f848be78c/v3/4a2a7260442b0a5d5f17295f1dd7241b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx504128408_s299638629.mp3"
+      },
+      {
+        "name": "小酒窝",
+        "addr": "https://webfs.kugou.com/202603211817/b6b37eb1ce1ddb7d6e5ded8eef8f9f88/v3/ab7ddf8e72209c0626182cffe03c335b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32068121_s3390853082.mp3"
+      },
+      {
+        "name": "曹操",
+        "addr": "https://webfs.kugou.com/202603211817/54b3375a83c52c6a362c6aba247b46e6/v3/e5cc5b3efaf927a85b97edadd3266239/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32194461_s3985858601.mp3"
+      },
+      {
+        "name": "裂缝中的阳光",
+        "addr": "https://webfs.kugou.com/202603211817/d38add1e7e018ca8be4bd4b7741b142c/v3/966faddbe853e185c386feed046c16af/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32148033_s943738729.mp3"
+      },
+      {
+        "name": "一千年以后",
+        "addr": "https://webfs.kugou.com/202603211817/25df3d49605f9e4b05c9c593d1665b77/v3/bad03d523109322cf355281a9c9d63ec/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx39608708_s1140145390.mp3"
+      },
+      {
+        "name": "不为谁而作的歌",
+        "addr": "https://webfs.kugou.com/202603211817/515ffa6bde99cb2ad43f2645d34903e2/v3/847bfa39a845cba02cde381240dcc7d7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx56641954_s1339199471.mp3"
+      },
+      {
+        "name": "浪漫血液",
+        "addr": "https://webfs.kugou.com/202603211817/74f1070372a689a236418d1ea53f1103/v3/20c7469364c139c45c6eac66f9a595ef/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27783307_s1654339590.mp3"
+      },
+      {
+        "name": "裹着心的光",
+        "addr": "https://webfs.kugou.com/202603211817/b82726f038351cd6f045678a9a0b7f7b/v3/9afd430e0a43c06196721e53b8355110/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx318347675_s3053340532.mp3"
+      },
+      {
+        "name": "爱笑的眼睛",
+        "addr": "https://webfs.kugou.com/202603211817/072d4e11c961cde2c525464c78064ac7/v3/a5df466236a6ea07958413f7ae513963/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32246704_s2616950362.mp3"
+      },
+      {
+        "name": "新地球",
+        "addr": "https://webfs.kugou.com/202603211817/7d63d93c0845021f72bb1efb62e032e0/v3/12dc6fb3670a3514561c32f1b0e02979/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27768737_s1313085368.mp3"
+      },
+      {
+        "name": "明日坐标",
+        "addr": "https://webfs.kugou.com/202603211817/215499c4c6d00b66ba8fd6ae007ee868/v3/18f7267d9d2fa1c4860107adb9c1de2a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx799567784_s83555466.mp3"
+      },
+      {
+        "name": "手心的蔷薇",
+        "addr": "https://webfs.kugou.com/202603211817/23babb504078e66d4097f030f365a60c/v3/50e135662c412c1b09ea934e19486a43/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27783309_s1251625317.mp3"
+      },
+      {
+        "name": "将故事写成我们",
+        "addr": "https://webfs.kugou.com/202603211817/45866a15940fdc76b44683f916d84b38/v3/4159f19dca969315089e24fe82b7105f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx209084929_s2997040072.mp3"
+      },
+      {
+        "name": "醉赤壁",
+        "addr": "https://webfs.kugou.com/202603211817/662251177dfa44c0334aade53e8e8dcd/v3/51abc8cf6d25ed868b989eef7632f975/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32068123_s3894489517.mp3"
+      },
+      {
+        "name": "她说",
+        "addr": "https://webfs.kugou.com/202603211817/6670a95ffddbec1fcd504be6a5e23198/v3/880627ff5aff38ac8f3c3d4b1f580828/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32246703_s2227601047.mp3"
+      },
+      {
+        "name": "飞云之下",
+        "addr": "https://webfs.kugou.com/202603211817/768c95dd3d4d67516a853b1bff88ef44/v3/23af13b406a58d5238e558dfdb5668f0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx107175099_s2547631817.mp3"
+      }
+    ]
+  },
+  {
+    "name": "蔡徐坤",
+    "songs": [
+      {
+        "name": "Deadman",
+        "addr": "https://webfs.kugou.com/202603211817/01b38efed4f34be5f171d8e43ced8cfa/v3/313efeed9a2ad13db6ff06cc07b49a0c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx759136162_s2082496068.mp3"
+      },
+      {
+        "name": "情人",
+        "addr": "https://webfs.kugou.com/202603211817/f9e2565beb23ec8ec54308f940225d32/v3/120f234213acb64e202b391612d5d9ca/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx258888370_s20701394.mp3"
+      },
+      {
+        "name": "Hug me (抱我)",
+        "addr": "https://webfs.kugou.com/202603211817/aada79d106ee1b032d0c178ead228fa4/v3/5cbd4985a9ae6adadabb98732da87eb2/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx428609140_s2604956374.mp3"
+      },
+      {
+        "name": "Jasmine",
+        "addr": "https://webfs.kugou.com/202603211817/610059474e645b6c9c9a6fd0513abd64/v3/78d032d1c82a5f142d1f3f88f3f47003/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx780444961_s3799608150.mp3"
+      },
+      {
+        "name": "Wait Wait Wait",
+        "addr": "https://webfs.kugou.com/202603211817/4f888140629c2b542eafad8476e3a891/v3/3ef9daa4c06096b968f6a717d2901401/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx112948586_s3799028036.mp3"
+      },
+      {
+        "name": "I Wanna Get Love",
+        "addr": "https://webfs.kugou.com/202603211817/d71983cbe51c464dfffc6fa12ce29dd6/v3/782befc18f016bcd932943c3e284c55a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx112214882_s4056569103.mp3"
+      },
+      {
+        "name": "What a Day",
+        "addr": "https://webfs.kugou.com/202603211817/37325ac67653de2b2e25a4ee9e5ba0f9/v3/46fc5508a57af1ee9eee7574014fe35c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx810875077_s2269078059.mp3"
+      },
+      {
+        "name": "Spotlight",
+        "addr": "https://webfs.kugou.com/202603211817/1b5b955831646928c50dce90c5ab40f5/v3/c7efd28839b955aa82d31e2f135e367a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx572247649_s271375128.mp3"
+      },
+      {
+        "name": "迷",
+        "addr": "https://webfs.kugou.com/202603211817/090096a1aa337554d9050214896b599f/v3/031806a7b487aa2e8c65901b512777b0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx308543366_s17674079.mp3"
+      },
+      {
+        "name": "Remedy",
+        "addr": "https://webfs.kugou.com/202603211817/2fec2c4a9d01b4e70cec57d02d02b868/v3/55740de8e7bf8a90aec0d9dced33e1f4/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx658937728_s3464405899.mp3"
+      },
+      {
+        "name": "没有意外",
+        "addr": "https://webfs.kugou.com/202603211817/eec54f2f516376cefedbb829db79b72f/v3/88adaa3f789c629571bd64a862fab6bc/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx130787844_s3283454772.mp3"
+      },
+      {
+        "name": "RIDE OR DIE",
+        "addr": "https://webfs.kugou.com/202603211817/8cb0424859a6f5fb38ac47afafc77172/v3/7b82ab4625870c67181dd944b7c4dc6a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx593782673_s332875380.mp3"
+      },
+      {
+        "name": "欲",
+        "addr": "https://webfs.kugou.com/202603211818/004332b78640478c689eb57817e05a06/v3/e7ffae8165743db4e362c7c46ca72ab8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx308545244_s2965691142.mp3"
+      },
+      {
+        "name": "Hard To Get",
+        "addr": "https://webfs.kugou.com/202603211818/eeac61881756cbd87cd773c1988fa5be/v3/b73b607ebdcfeb04b30c32b16aa84e59/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx146377557_s2065166917.mp3"
+      },
+      {
+        "name": "Pull Up",
+        "addr": "https://webfs.kugou.com/202603211818/2ef67e0b0f04ebbe21b0270c93b9eedc/v3/fe3fc1135fa135b83ea7cd72ecb27580/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx111778119_s3412824224.mp3"
+      },
+      {
+        "name": "You Can Be My GirlFriend",
+        "addr": "https://webfs.kugou.com/202603211818/055d55b44ea44bd3bd66189bcac158ca/v3/e5e1587ff76a6ffff0ae96386fa85e6f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx111778120_s2577740916.mp3"
+      },
+      {
+        "name": "It's You",
+        "addr": "https://webfs.kugou.com/202603211818/5c8ae789cd628bf6d738dc0e63251e08/v3/a25259474ce9f380a50cb388fae1ad09/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx111778122_s1063337649.mp3"
+      },
+      {
+        "name": "YOUNG",
+        "addr": "https://webfs.kugou.com/202603211818/ed52b62042fd79f23e115ca7c963c005/v3/e70a721f975252cc1093dcf8c38a241d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx177731318_s4178550003.mp3"
+      },
+      {
+        "name": "感受她",
+        "addr": "https://webfs.kugou.com/202603211818/61c392ab18c1c76e3168e57c460c804f/v3/76d3448768df640810e8ac9dec5ef6f9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx308545196_s1904631757.mp3"
+      },
+      {
+        "name": "标签",
+        "addr": "https://webfs.kugou.com/202603211818/a1f430812796e8194c5bd43aee5965d8/v3/c22380d1b495c18131b44c7d9cdcf1ab/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx488160194_s2609734057.mp3"
+      },
+      {
+        "name": "迷 (Live)",
+        "addr": "https://webfs.kugou.com/202603211818/c067c9279c2b95a677bb4bc99577adf1/v3/9ab3886352290d559c4c4ea6624b0805/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx489427841_s4027022888.mp3"
+      },
+      {
+        "name": "Hug me (Remix)",
+        "addr": "https://webfs.kugou.com/202603211818/17809486d6be28803c6a512d37b6a3ae/v3/c61b338248f6b7e955f1042e93f6d29e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx524305321_s1022430091.mp3"
+      }
+    ]
+  },
+  {
+    "name": "薛之谦",
+    "songs": [
+      {
+        "name": "演员",
+        "addr": "https://webfs.kugou.com/202603211818/e9c60486d54deac7ae766753fb5cf97e/v3/097e777171f692855eae98b6965f9477/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx128180951_s1797683768.mp3"
+      },
+      {
+        "name": "其实",
+        "addr": "https://webfs.kugou.com/202603211818/acf45615933da448543598e78cda3c15/v3/2a8911ead4838bf967cf5a300d787e53/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042280_s2517726625.mp3"
+      },
+      {
+        "name": "天外来物",
+        "addr": "https://webfs.kugou.com/202603211818/e7411131a86c69be210042ffb11b42e2/v3/761c1eafbd1e22504b487f84d2152df5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx288019985_s547768738.mp3"
+      },
+      {
+        "name": "你还要我怎样",
+        "addr": "https://webfs.kugou.com/202603211818/c083646e29082e19968fd2db66bd1ae3/v3/8c6aac48fb5c3759042e4c8699544c6f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042275_s595627103.mp3"
+      },
+      {
+        "name": "刚刚好",
+        "addr": "https://webfs.kugou.com/202603211818/485d1051a806658484c6cbd3acc3058a/v3/956eec514146039e6d6a16b30dd64a7b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx39679365_s217616741.mp3"
+      },
+      {
+        "name": "我好像在哪见过你",
+        "addr": "https://webfs.kugou.com/202603211818/4f4b0120284ef84945a24b3ac541a71c/v3/6a350e487263733359e7f2b64bd974ac/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx39679370_s873726875.mp3"
+      },
+      {
+        "name": "怪咖",
+        "addr": "https://webfs.kugou.com/202603211818/bc6927d0814ce83e308ef5ff6709f210/v3/9c233ca186423fb2af7b118166834fac/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx127102960_s2233046582.mp3"
+      },
+      {
+        "name": "像风一样",
+        "addr": "https://webfs.kugou.com/202603211818/a8d9b45a2809dde525584f80a2675f3b/v3/acc9bb4136622b3e2ba561b87fff00d9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx102925089_s2921894553.mp3"
+      },
+      {
+        "name": "狐狸",
+        "addr": "https://webfs.kugou.com/202603211818/7165a9c466f92a261c2a665b2334b039/v3/76f52fb9c613740965cc7e5fff6146b9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx127102962_s2637923606.mp3"
+      },
+      {
+        "name": "野心",
+        "addr": "https://webfs.kugou.com/202603211818/0679eb4110fbb796b18c2f965743488c/v3/1268b50913e8eef9dd6e376352e6af6b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx288019994_s2075480758.mp3"
+      },
+      {
+        "name": "平庸 (Live)",
+        "addr": "https://webfs.kugou.com/202603211818/1a6376ea664a4bf0fbab71eee9f645c4/v3/2a174c6805c74db73dc1b7b7d03fe5f5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx809001704_s757202167.mp3"
+      },
+      {
+        "name": "意外",
+        "addr": "https://webfs.kugou.com/202603211818/2d7f59088774d0f6ad883304d26851f5/v3/04e0ede41ea3ccff76c04f414e1d03a7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042274_s922497632.mp3"
+      },
+      {
+        "name": "租购",
+        "addr": "https://webfs.kugou.com/202603211818/90e698d21858a8f1279f83d1237e06db/v3/b96a6102b2238e21c463e96a7d81e840/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx698225143_s736160666.mp3"
+      },
+      {
+        "name": "认真的雪",
+        "addr": "https://webfs.kugou.com/202603211818/8267b7d428ed9ac78cc75d54a4d88f6c/v3/d2e00cc158db4da18927ac3b01cc371b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx65622639_s3383154504.mp3"
+      },
+      {
+        "name": "动物世界",
+        "addr": "https://webfs.kugou.com/202603211818/24b096ea0e8c6061bf26630ca4a4dd35/v3/f0cc6db3e574ff08635cc43b16b8f359/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx102925091_s2256172081.mp3"
+      },
+      {
+        "name": "绅士",
+        "addr": "https://webfs.kugou.com/202603211818/dfa1be05ef6a155b991edbddf52531af/v3/d6caca3903cd758d2b4208bf3e4e50ee/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx128180948_s1455989910.mp3"
+      },
+      {
+        "name": "背过手",
+        "addr": "https://webfs.kugou.com/202603211818/839092e2db313d68dddc839b2c1cc0f5/v3/53cad6cd1d75ec4a582f858317b1bcbd/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx102925096_s2867558614.mp3"
+      },
+      {
+        "name": "平庸 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/2c464cdd190a5d82b1eb19c1f6153eb3/v3/a2faff62a0f22a29fd4d9e02ac0439ae/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856675514_s376747117.mp3"
+      },
+      {
+        "name": "其实 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/6f3ade2493bd00127080c7acc4969a8c/v3/fa1922943363a646f8228db4eef117ab/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856675519_s1741536834.mp3"
+      },
+      {
+        "name": "刚刚好＋哑巴＋你还要我怎样 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/a9737a3b57fe22b979cfc616650f8827/v3/069857864913f80270dfc88e6cefc90c/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856675492_s1448018507.mp3"
+      },
+      {
+        "name": "狐狸 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/245ce039d36232bb118bded70692969f/v3/1340900e4b0902a34bc114c6ab196daa/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856675504_s4230426630.mp3"
+      },
+      {
+        "name": "造物 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/659744b36181d8d4ecfa181ec923a2bb/v3/e7f060bafbb777501b1e420bb31446be/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856654399_s65272299.mp3"
+      },
+      {
+        "name": "造物 (2026万兽之王世界巡回演唱会彩排版)",
+        "addr": "https://webfs.kugou.com/202603211818/272feadd5f61debca2d9092c25639edb/v3/754b4b6857bcc02449924f4872f51a59/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856027665_s3892565096.mp3"
+      },
+      {
+        "name": "认真的雪 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/0386597006ac4f17c74607620c2a4ca4/v3/619c3c5f8849d8de1a0951bc0121db68/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856657886_s3620887718.mp3"
+      },
+      {
+        "name": "野心 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/868df14c2a0086458d0daece1ac1b67f/v3/1da5f4537341fe1fd8559387813cb51e/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856653032_s3053149383.mp3"
+      },
+      {
+        "name": "背过手 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/017bf5e2717163efd90bc73862922c74/v3/9cfe451ae545b9022b79aa1efda43df6/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856649612_s605076377.mp3"
+      },
+      {
+        "name": "怪咖 (2026万兽之王巡回演唱会广州站现场)",
+        "addr": "https://webfs.kugou.com/202603211818/1f19c20d3c353518126ec3f64d2b5dfd/v3/733e78b5eadb46ef57d9fb4e0ceb2897/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx856657878_s3699849073.mp3"
+      },
+      {
+        "name": "粉钻 (22秒片段)",
+        "addr": "https://webfs.kugou.com/202603211818/ff9876cbec4c1ebcb9560473698f36a8/v3/7ca2369c312b10f8865096fdfbb052e5/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx855974271_s181491814.mp3"
+      },
+      {
+        "name": "陪你去流浪",
+        "addr": "https://webfs.kugou.com/202603211818/703dc1f7eb2e1425de1e4463c549b470/v3/350519ffd1c92192f12b126badb6fb2e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx243149863_s886070695.mp3"
+      },
+      {
+        "name": "丑八怪",
+        "addr": "https://webfs.kugou.com/202603211818/c70265580de56ac9f80384c0f7e66b1c/v3/5a2073cbc429473e4629b55c81f8b091/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042273_s2727045001.mp3"
+      }
+    ]
+  },
+  {
+    "name": "王子健",
+    "songs": [
+      {
+        "name": "循迹",
+        "addr": "https://webfs.kugou.com/202603211818/fba73feacddd57dd4c30bc2264357749/v3/21b4f0d5666d8e8343214f95afa31da9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx481187296_s1922055543.mp3"
+      },
+      {
+        "name": "即乐世界",
+        "addr": "https://webfs.kugou.com/202603211818/a65e95d1bd7600faa0b46f9afadd66f0/v3/674daeda906d13b02def2dd64984ed36/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx834822947_s2490322666.mp3"
+      },
+      {
+        "name": "舍离去",
+        "addr": "https://webfs.kugou.com/202603211818/b9efbe39c533bd8b16c9c98c430a1a7c/v3/c33560ee27f1693bfb626ba94b12b653/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx490159985_s3256218861.mp3"
+      },
+      {
+        "name": "弄舌",
+        "addr": "https://webfs.kugou.com/202603211818/d77b4c9e2f2bc9a59ce98bc9b9266db8/v3/5296c2c7d5d31dad4d4a8183055af12a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx727366169_s1190494043.mp3"
+      },
+      {
+        "name": "三万天",
+        "addr": "https://webfs.kugou.com/202603211818/1c5dd512a61004a26d13a9d72f6633ad/v3/f4bc623a0bb2b7fc3483f7e375a72937/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx798745626_s2496810041.mp3"
+      },
+      {
+        "name": "你呀你呀",
+        "addr": "https://webfs.kugou.com/202603211818/e9810d4acf3bf9d57a360a2e08db70e3/v3/48c45aac645203b533f496719f867a59/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx740505847_s1469001948.mp3"
+      },
+      {
+        "name": "榆木",
+        "addr": "https://webfs.kugou.com/202603211818/750c651a32b307cb6f49478e41c216c3/v3/3e2263ed4f35f88b9960c4147adc8622/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx782724474_s2543308364.mp3"
+      },
+      {
+        "name": "饲养怪物",
+        "addr": "https://webfs.kugou.com/202603211818/e64e22a3f40209cb5dbbe1553a507207/v3/c9ef2c6e76af3fe19d2612ec97f4fc64/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx774452825_s2454583709.mp3"
+      },
+      {
+        "name": "舍离去 (男女合唱版)",
+        "addr": "https://webfs.kugou.com/202603211818/120943d3e0a5145826b5789e4229a08e/v3/921d56b08618961b9502eb148a2ba9f1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx498061967_s3649288199.mp3"
+      },
+      {
+        "name": "模拟",
+        "addr": "https://webfs.kugou.com/202603211818/77f439ad2652d8f9a811cb2491304a54/v3/ccc628a6c01a5111db60f31cec8186cb/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx814889873_s2047431126.mp3"
+      },
+      {
+        "name": "泥潭",
+        "addr": "https://webfs.kugou.com/202603211818/e9b89969f97aeb1f70cc323ab59a88e1/v3/2dc3548e33e81e9677ef248f6375200a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx618593849_s3563657911.mp3"
+      },
+      {
+        "name": "失语症",
+        "addr": "https://webfs.kugou.com/202603211818/1b4115992735c9edcc58af94fd1bc034/v3/3e4e5410abf4acefd0a2980ee2ca166f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx452400393_s2339328822.mp3"
+      },
+      {
+        "name": "唤归",
+        "addr": "https://webfs.kugou.com/202603211818/03529df8384b30bbab2d803b54da789e/v3/9d514893499ce607b9285fb5fe412e12/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx712477208_s204792636.mp3"
+      },
+      {
+        "name": "余声",
+        "addr": "https://webfs.kugou.com/202603211818/870d9cc50b0250489263251ad3504d34/v3/6f700928be9c3302f7ee1cfb98337789/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx642347451_s431904651.mp3"
+      },
+      {
+        "name": "知觉钝化",
+        "addr": "https://webfs.kugou.com/202603211818/1ba0f0c57a398b99fe800b5dc8124277/v3/4036134902b1cc6c3948508a447dd45c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx299570927_s3646577642.mp3"
+      },
+      {
+        "name": "睡眠障碍",
+        "addr": "https://webfs.kugou.com/202603211818/72a961fa7aed35fe2743a5f5580d4cf9/v3/6f778ef3a5a8318052602e39614461a3/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx303070219_s1938982328.mp3"
+      },
+      {
+        "name": "她的花",
+        "addr": "https://webfs.kugou.com/202603211818/b3c3697378a3e1b7cf0f3d99be7b0864/v3/8a695dce62e11a1340fd79ba67e16fc9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx435298690_s1124926181.mp3"
+      },
+      {
+        "name": "梦呓",
+        "addr": "https://webfs.kugou.com/202603211818/535095a746c662105e132b92c9b96081/v3/d777d2a86ec61a80757243d51390260a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx535293533_s2187340499.mp3"
+      },
+      {
+        "name": "溯着时间",
+        "addr": "https://webfs.kugou.com/202603211818/77231d3cab336493bf56d7f8c819d53a/v3/76f987aeee0a635a5665772d0ecd6c36/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx581490565_s2549883575.mp3"
+      },
+      {
+        "name": "孤独美学",
+        "addr": "https://webfs.kugou.com/202603211819/8e1e38f5d0ed1acbeb4ac3b1a88ad98d/v3/70e3ed472c5225fb63c946a73d4d1d41/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx512348876_s1145195522.mp3"
+      },
+      {
+        "name": "风起之时",
+        "addr": "https://webfs.kugou.com/202603211819/717b4cdf74fa6c8a5448a3c20852d260/v3/0a54f949e9f349ee7e59aa742d32a134/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx430759298_s1642888845.mp3"
+      },
+      {
+        "name": "地表一望无际",
+        "addr": "https://webfs.kugou.com/202603211819/d4312ddf36638aba702ca0203c35f722/v3/397487c93d3f8bfcb08cc336f17da6d0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx709855396_s160438674.mp3"
+      },
+      {
+        "name": "春日梦语",
+        "addr": "https://webfs.kugou.com/202603211819/ff165b594a78b859de046de068de0520/v3/6c4fe88142dbcbd728eda6b5ccab64d1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx851407694_s3774980866.mp3"
+      },
+      {
+        "name": "风车",
+        "addr": "https://webfs.kugou.com/202603211819/ec125509f32c0e38ce9b11bee9437781/v3/2c4450a10173ff263b10484ee0ad6a21/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx844252390_s2351536581.mp3"
+      },
+      {
+        "name": "月神赋",
+        "addr": "https://webfs.kugou.com/202603211819/1cbd5ad3890703bdd6f9533be309baa1/v3/b8eefffdd155b240e8b9b65dad585081/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx440561076_s4853522.mp3"
+      },
+      {
+        "name": "追心刺客",
+        "addr": "https://webfs.kugou.com/202603211819/c3fe0a159f1098e408727090f397c33a/v3/d2af94c5483e2930b89f007caa6b7704/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx647664951_s2679981068.mp3"
+      },
+      {
+        "name": "不谓",
+        "addr": "https://webfs.kugou.com/202603211819/35b7c3ba89c271d6ca055a0272a7dc9a/v3/e8401f4ee2737551b77ffc900c956bac/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx791845684_s2089141995.mp3"
+      },
+      {
+        "name": "神游",
+        "addr": "https://webfs.kugou.com/202603211819/b8530e816e3ba0c1294d67c1aa0aa77c/v3/0f1ec1065fb1f2e7a49133483dc78407/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx570724651_s2558337916.mp3"
+      },
+      {
+        "name": "Missing Days",
+        "addr": "https://webfs.kugou.com/202603211819/91a86ef1bb917cc7d4c22647f9c92931/v3/8b6ca10b3395c6a40d056f4adaa186cb/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx756768590_s204087342.mp3"
+      },
+      {
+        "name": "告辞",
+        "addr": "https://webfs.kugou.com/202603211819/51ac1c56bf59dc5f2fee59b36cfa5001/v3/930549fd4f515b9df57f3db7e0919ed9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx346281763_s3069043975.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SEVENTEEN",
+    "songs": [
+      {
+        "name": "THUNDER",
+        "addr": "https://webfs.kugou.com/202603211819/05efdaf5be131e484c7303baebe73fa3/v3/8870d73aa48b1f14f9ce85caa2140c2f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx758598929_s1102687941.mp3"
+      },
+      {
+        "name": "Darl+ing",
+        "addr": "https://webfs.kugou.com/202603211819/5493751d7740d35d65fc922545404831/v3/82e8cda5229072c32b84e2662daa48ea/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx403845791_s2273803626.mp3"
+      },
+      {
+        "name": "글쎄",
+        "addr": "https://webfs.kugou.com/202603211819/0db3330338cc5ccbd7e410f48a937a6e/v3/c172782afbef937e461bbdaea4972fb9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx64519562_s1197307563.mp3"
+      },
+      {
+        "name": "_WORLD",
+        "addr": "https://webfs.kugou.com/202603211819/5c71e9312e59d30abad27d4bd8e3bdd0/v3/d7ecb2d9549b59e2861a2b0be9906dcc/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx427442863_s3971069526.mp3"
+      },
+      {
+        "name": "아주 NICE",
+        "addr": "https://webfs.kugou.com/202603211819/21d5bb23c091d4d7b5e4f4bac005d84a/v3/efea88e1819e60e2b23d3efff73ccf5d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx64454328_s1816384809.mp3"
+      },
+      {
+        "name": "HOT",
+        "addr": "https://webfs.kugou.com/202603211819/2ca3f326019959b6cfa67953cb7dba0f/v3/560525bfb45ea7be9cb6347f6535f13a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx413095718_s2953536079.mp3"
+      },
+      {
+        "name": "SOS",
+        "addr": "https://webfs.kugou.com/202603211819/233d01ddf05aca7cb2a8c23255372d55/v3/d9eca271268e3f5ef89fb09e0c62bbc1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx563988215_s3523884244.mp3"
+      },
+      {
+        "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+        "addr": "https://webfs.kugou.com/202603211819/da51883ad2f53c8bb1fbf585d5923ec9/v3/01bfe36fbc072dd045e0e2e35314f28b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx682040366_s3746578324.mp3"
+      },
+      {
+        "name": "MAESTRO",
+        "addr": "https://webfs.kugou.com/202603211819/18bec0a8334c9a0e2114a66f8469931a/v3/e61cbc43f3881f10ce2b7d990172b2b8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx627311027_s89100853.mp3"
+      },
+      {
+        "name": "손오공",
+        "addr": "https://webfs.kugou.com/202603211819/a5da0f88d15d677bf26c7f14c08308d1/v3/9c3b262ef265464503f2efd671521900/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx508443474_s3130973757.mp3"
+      },
+      {
+        "name": "Tiny Light",
+        "addr": "https://webfs.kugou.com/202603211819/36a5c1745ceb4c1ec57f21aec953d84a/v3/cc625a945d97fa9a55bb751bfca4b70d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx849236097_s934152987.mp3"
+      },
+      {
+        "name": "음악의 신",
+        "addr": "https://webfs.kugou.com/202603211819/0a61e3da156b7b3c7c6c37c2b4f091ef/v3/90bc6898f8908d6e22d370a33b4428e4/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx563988222_s1776377421.mp3"
+      },
+      {
+        "name": "相遇的意义",
+        "addr": "https://webfs.kugou.com/202603211819/8d72750309561b713145977d481d96a6/v3/ab9f7beed5b9763a13f7f44eba07dc67/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx591287839_s1567353504.mp3"
+      },
+      {
+        "name": "HIT",
+        "addr": "https://webfs.kugou.com/202603211819/28493f194be9fd84f37f638a258713e5/v3/dd2b97933a1432caa35de0ddc4b47958/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx182057330_s2314421802.mp3"
+      },
+      {
+        "name": "舞い落ちる花びら",
+        "addr": "https://webfs.kugou.com/202603211819/477cf62f39c4f6a2ecbc499842d20b4f/v3/2dd20a118e47a71df0bc8709bc74f9ff/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx252440820_s2438455726.mp3"
+      },
+      {
+        "name": "울고 싶지 않아",
+        "addr": "https://webfs.kugou.com/202603211819/bb5ac4f800ef47ebbd383feb339c7085/v3/47c5d5db8458185985b139ca204c85e5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx65258575_s3431977315.mp3"
+      },
+      {
+        "name": "Rock with you",
+        "addr": "https://webfs.kugou.com/202603211819/b4f712e1b43d5c4e153c15225fde783c/v3/cccf045f07c6bc49bd00066f06fe2946/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx344393820_s868383570.mp3"
+      },
+      {
+        "name": "어른 아이",
+        "addr": "https://webfs.kugou.com/202603211819/3731a44e66e8f3c34409b8deaf2b50b2/v3/e1005bb9e4408f98de1b2c405676fe45/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx262098253_s1508627439.mp3"
+      },
+      {
+        "name": "今 -明日 世界が終わっても-",
+        "addr": "https://webfs.kugou.com/202603211819/a2cc853b3231e8c7c64407cef67ac79c/v3/fdbacf17e55407c55015cc0957b8541a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx546293683_s3734253895.mp3"
+      },
+      {
+        "name": "우리의 새벽은 낮보다 뜨겁다",
+        "addr": "https://webfs.kugou.com/202603211819/157391243ecf45f0686265945fa5ffee/v3/312b406c849ac7205e1edb65d2abcf2a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx110719312_s4253863203.mp3"
+      },
+      {
+        "name": "Left & Right",
+        "addr": "https://webfs.kugou.com/202603211819/277f9a3e4cd1d18dd7590d6f3c64c314/v3/ef57f34f74479ea5c3b58a8d8d6ed6e0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx262097970_s3609653509.mp3"
+      },
+      {
+        "name": "SAY YES",
+        "addr": "https://webfs.kugou.com/202603211819/29873323a09b624d372ecbeacdef45d6/v3/48742cf998b93d3f1c735ee478016694/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx64410082_s3400565265.mp3"
+      },
+      {
+        "name": "F*ck My Life",
+        "addr": "https://webfs.kugou.com/202603211819/ce35e60e470610a721f7f351c6d21ae1/v3/81f00638e1bba48966308d6b068b912b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx508443472_s3118737952.mp3"
+      },
+      {
+        "name": "박수",
+        "addr": "https://webfs.kugou.com/202603211819/115ddbb75e0d93f444096f06e7a0e6cd/v3/fb7fd73cfff2f77d59ddd32056d90fc1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx93909831_s4219815352.mp3"
+      },
+      {
+        "name": "소용돌이",
+        "addr": "https://webfs.kugou.com/202603211819/7ba720b6eb50c5b8157fbc0b68a4b7eb/v3/61acee97abb1536aa78eeb3e9a5a931c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx344394304_s3758012328.mp3"
+      },
+      {
+        "name": "Holiday",
+        "addr": "https://webfs.kugou.com/202603211819/3f6137367306cbb78068aa24d560ecbf/v3/14f4c0aee1de1b6231672f2665d25e02/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx110719308_s1163469182.mp3"
+      },
+      {
+        "name": "My My",
+        "addr": "https://webfs.kugou.com/202603211819/5c79d64b9b1c981d0271a271bf524771/v3/9650f599f7d36f20f7eccfc41bdf6790/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx261091756_s2591221596.mp3"
+      },
+      {
+        "name": "돌고 돌아",
+        "addr": "https://webfs.kugou.com/202603211819/62ff4cedbb19094eab6d43e710157094/v3/a6c07a88b71d30606a96d0dcf9c9b8ce/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx427442861_s299975269.mp3"
+      },
+      {
+        "name": "아낀다",
+        "addr": "https://webfs.kugou.com/202603211819/b4d18487ab869933104c73bd48b41ab3/v3/438d71cbbd5999a626c21e5feeb748e4/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx64556630_s3385609374.mp3"
+      },
+      {
+        "name": "LALALI",
+        "addr": "https://webfs.kugou.com/202603211819/957e6b44c411b8db41a595168f6b129d/v3/273126d21412b832779454d92bd80f3b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx627311019_s503733486.mp3"
+      }
+    ]
+  },
+  {
+    "name": "周杰伦",
+    "songs": [
+      {
+        "name": "晴天",
+        "addr": "https://webfs.kugou.com/202603211819/c76a17429d5b68207f1ff020c0d8cf50/v3/b3a52a7a958bf0aed0ebfba2e9a818b7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32100650_s4222145373.mp3"
+      },
+      {
+        "name": "稻香",
+        "addr": "https://webfs.kugou.com/202603211819/e7849be3107d2efcc226efeafb4cf115/v3/8909e1809908cd8e3bf6cf85d98b93f0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042828_s777360879.mp3"
+      },
+      {
+        "name": "青花瓷",
+        "addr": "https://webfs.kugou.com/202603211819/6dbef1ec4fde86b5b78427520e2387e7/v3/37a8f50a9ec3b267c3cc6bec633d9c4a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32218352_s708154972.mp3"
+      },
+      {
+        "name": "搁浅",
+        "addr": "https://webfs.kugou.com/202603211819/41d7cbe473324893ecd0235bda8647ed/v3/fbc234520fed713c30c1c026e7352770/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32144422_s4005182097.mp3"
+      },
+      {
+        "name": "夜曲",
+        "addr": "https://webfs.kugou.com/202603211819/84e9657eeceaaab9449fd367e42fe50e/v3/16c8ab298231370293d16bcf9e5ff9b6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32029511_s2259773897.mp3"
+      },
+      {
+        "name": "兰亭序",
+        "addr": "https://webfs.kugou.com/202603211819/3a8f37ead3e1592f670cd6d1973f8971/v3/4ec10b1b7b9beb2f0adb89bbec5f664b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042824_s4078019095.mp3"
+      },
+      {
+        "name": "一路向北",
+        "addr": "https://webfs.kugou.com/202603211819/58d2d06205c8fd936fd77d925e00887b/v3/f73f22fb046ca1a135c70417163af82e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx39590741_s3317467311.mp3"
+      },
+      {
+        "name": "蒲公英的约定",
+        "addr": "https://webfs.kugou.com/202603211819/72582afe6877be6fabd48187a9b446e2/v3/6996b4d89596673746aee3d54f7e5367/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32218354_s2667351949.mp3"
+      },
+      {
+        "name": "七里香",
+        "addr": "https://webfs.kugou.com/202603211819/d0990a67f3d0ab22e02b7d4003883880/v3/2c7ceb6cc2340ecc8948e0ace62f0cf8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32144418_s2356224330.mp3"
+      },
+      {
+        "name": "说好的幸福呢",
+        "addr": "https://webfs.kugou.com/202603211819/5cf3f72ab60f7193eb9d1b60e7b91563/v3/892b7ad62499c97a1a994454423e30f6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042823_s2868184846.mp3"
+      },
+      {
+        "name": "红尘客栈",
+        "addr": "https://webfs.kugou.com/202603211819/3f92ad36fbbf8fc70c9459a99a473913/v3/48729371f20fb048ef4e51d4cd41dbf5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32238253_s1197587779.mp3"
+      },
+      {
+        "name": "花海",
+        "addr": "https://webfs.kugou.com/202603211819/c0105fbe701f9402cd8f0e19e6e60405/v3/3328808cecbd1a1038166003840fddd7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042821_s4022445603.mp3"
+      },
+      {
+        "name": "枫",
+        "addr": "https://webfs.kugou.com/202603211819/cc6d7b68454f7586552a0a8bc8640697/v3/0d7e8c11c961a17eb8779feb0ca772e3/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32029516_s1407113741.mp3"
+      },
+      {
+        "name": "告白气球",
+        "addr": "https://webfs.kugou.com/202603211819/35166b2c56023e6d5e70f322291c1c7b/v3/688857974673645ce89eda26a36db19d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx39612569_s391300700.mp3"
+      },
+      {
+        "name": "烟花易冷",
+        "addr": "https://webfs.kugou.com/202603211819/116d1083a1007d1a5a94888826b6a04e/v3/b9fc03df9015d6bff0554a110bf2c84f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32028729_s450296200.mp3"
+      },
+      {
+        "name": "最长的电影",
+        "addr": "https://webfs.kugou.com/202603211819/0056b454925df749c009240c1e31e8b9/v3/dbe8fcd4c5072cf6139a28e32d45b990/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32218359_s2064277133.mp3"
+      },
+      {
+        "name": "明明就",
+        "addr": "https://webfs.kugou.com/202603211819/0802103244eaa1be5123604e963602cd/v3/d85c14e02008b7a2f97d55cdc29c2221/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32238249_s648900235.mp3"
+      },
+      {
+        "name": "退后",
+        "addr": "https://webfs.kugou.com/202603211819/e3592381500b517bd9e7d28464a8b2a5/v3/5971de0b235d5b2708d6a6feb3d31b6f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx64473829_s1950603267.mp3"
+      },
+      {
+        "name": "说了再见",
+        "addr": "https://webfs.kugou.com/202603211819/2d310dcd863eba5e1808266ed07743f5/v3/966c718da96ee29b3b466f773bfa9e2f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32028728_s4213169523.mp3"
+      },
+      {
+        "name": "手写的从前",
+        "addr": "https://webfs.kugou.com/202603211819/c2dfc92cd68208d14e50a3251ad7c320/v3/2920d0149ad73fac588c264539f7927f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32062715_s2053174634.mp3"
+      },
+      {
+        "name": "发如雪",
+        "addr": "https://webfs.kugou.com/202603211819/452aca98b196e68cdd90b0dd2374d24b/v3/1f7e7659b9fff4fb6f71562a61bbc25f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32029513_s3480698338.mp3"
+      },
+      {
+        "name": "我落泪情绪零碎",
+        "addr": "https://webfs.kugou.com/202603211819/795222692b635183bfc8f4c92fe4143d/v3/27943eb1cbd46f7bb165b054ce6ebdc8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32028734_s2359965694.mp3"
+      },
+      {
+        "name": "爱在西元前",
+        "addr": "https://webfs.kugou.com/202603211819/5360ef58b20c0ea4dceaa7185d73bd6c/v3/66b756fb1331807b032ef97f7ba9948e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32027745_s2907644794.mp3"
+      },
+      {
+        "name": "给我一首歌的时间",
+        "addr": "https://webfs.kugou.com/202603211819/5f28387e059a5230d8491d735e7474fd/v3/ead10dc931a1102a10fdcd3665010322/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32042819_s3314757701.mp3"
+      },
+      {
+        "name": "爱你没差",
+        "addr": "https://webfs.kugou.com/202603211819/2e56eaf9825d1c36af20975c6f0f353a/v3/66f31869bbaa767a929f35eee1ccc5c9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32238252_s3819081721.mp3"
+      },
+      {
+        "name": "等你下课",
+        "addr": "https://webfs.kugou.com/202603211819/0fb376892a982dad1892664d3df033aa/v3/5d043ec8bf78a185a01cc45a6032de1f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx424614751_s1039111793.mp3"
+      },
+      {
+        "name": "简单爱",
+        "addr": "https://webfs.kugou.com/202603211819/f3650f63550334748fc7b549c3241e13/v3/6e44ce19be5872384fa184b995cce23b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32027747_s35246934.mp3"
+      },
+      {
+        "name": "半岛铁盒",
+        "addr": "https://webfs.kugou.com/202603211819/11ae84b71889896f8f1f614c7bdf2d25/v3/67ba8a4a0681f2078bc423cb13b904b7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32055660_s3309598160.mp3"
+      },
+      {
+        "name": "不能说的秘密",
+        "addr": "https://webfs.kugou.com/202603211819/e9c7d0ed46c6dd2a594d8207795fc68c/v3/edfc5dd1ac3d58971ab95b3e2700d015/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx40288371_s2872181420.mp3"
+      },
+      {
+        "name": "珊瑚海",
+        "addr": "https://webfs.kugou.com/202603211819/338db7fd91718866c60cd6bcc489bfb6/v3/90e34f0c582168e7ea857915771ab220/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32029520_s2072915353.mp3"
+      }
+    ]
+  },
+  {
+    "name": "李荣浩",
+    "songs": [
+      {
+        "name": "恋人",
+        "addr": "https://webfs.kugou.com/202603211819/512ece960c0c0152b4127c48e568160d/v3/9da7851e2bf83b18c74cbbab461cefdd/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx644833397_s3444336955.mp3"
+      },
+      {
+        "name": "不将就",
+        "addr": "https://webfs.kugou.com/202603211820/1deca45d8bce382476096cd6490c5609/v3/e5f0905c662872a9b05a423fd1ed48b5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32443094_s2387341825.mp3"
+      },
+      {
+        "name": "老街",
+        "addr": "https://webfs.kugou.com/202603211820/f4f67a86fea1ecfee67b1ed2d95dbba7/v3/30e7f7ccb57eb16d1be3ec71d7adb071/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32078719_s997393683.mp3"
+      },
+      {
+        "name": "模特",
+        "addr": "https://webfs.kugou.com/202603211820/6a69d0f3181274fda319d65146aa0a6f/v3/87ebc49856d2cb3c04992c9a87e5a5c5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32112460_s1059396235.mp3"
+      },
+      {
+        "name": "年少有为",
+        "addr": "https://webfs.kugou.com/202603211820/b1d84f0afe1bb28468e6abdb6e31f4d3/v3/3a5c1d6cdabb2fda813f8f8b7e4d08b0/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx110800468_s1001781740.mp3"
+      },
+      {
+        "name": "戒烟",
+        "addr": "https://webfs.kugou.com/202603211820/fc5e10ba6901318efe12cec63c0337b1/v3/af36a623d725b98893daefdf8010f22e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx341649525_s1141092445.mp3"
+      },
+      {
+        "name": "麻雀",
+        "addr": "https://webfs.kugou.com/202603211820/1dcd1d96eb06c91992bb96faf9664dae/v3/2e4c5a85a751af5a0b200d5aa0629226/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx241620590_s1230245063.mp3"
+      },
+      {
+        "name": "爸爸妈妈",
+        "addr": "https://webfs.kugou.com/202603211820/2d1a14651842042480b2a1d634382698/v3/6a338f9d3bcbeee2e6ec1b6f7efea17c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32585339_s2709086031.mp3"
+      },
+      {
+        "name": "慢冷 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/4cc2509956b8a64abe0a6313ef7f7a15/v3/3536800ec50f04ebf68fb22e7af6b124/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx432094183_s477620456.mp3"
+      },
+      {
+        "name": "不遗憾",
+        "addr": "https://webfs.kugou.com/202603211820/baef466e0185708153e019d3a015abc2/v3/40ce38d5db930f404eb26f58978bec3d/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx312274678_s1825740822.mp3"
+      },
+      {
+        "name": "走走",
+        "addr": "https://webfs.kugou.com/202603211820/8dae163c2f219208c69024f6ee6aef5f/v3/0bd5b6f56ced35bb3380425ec02e1098/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx653866860_s1411839358.mp3"
+      },
+      {
+        "name": "李白",
+        "addr": "https://webfs.kugou.com/202603211820/bd72d8fc841dc0a8a42c3b2788357fbe/v3/acdbb9d0358078d6228df0d4698a83cd/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32112459_s1894235247.mp3"
+      },
+      {
+        "name": "乌梅子酱",
+        "addr": "https://webfs.kugou.com/202603211820/04a0d16db86a4be4ea4d470e5e9aca2d/v3/3902337cb864260fc3ab81e6bec7923a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx463189086_s380723445.mp3"
+      },
+      {
+        "name": "脱胎换骨",
+        "addr": "https://webfs.kugou.com/202603211820/09b3c0f3fc6407a96841a92ebb54c130/v3/abe02d1efc8528c5cb90b6472d7143a1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx386822603_s3702255164.mp3"
+      },
+      {
+        "name": "女儿国",
+        "addr": "https://webfs.kugou.com/202603211820/e6bb6dd1148abd44f57b0d126117ab98/v3/f3337330589773065a365f1663e11f9e/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx103518384_s1788566263.mp3"
+      },
+      {
+        "name": "耳朵",
+        "addr": "https://webfs.kugou.com/202603211820/bfbb5c49c3e406b6d287443431ec6fe2/v3/c1314a7967196a8c571b519401bfa61a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx118721519_s3352240479.mp3"
+      },
+      {
+        "name": "老伴",
+        "addr": "https://webfs.kugou.com/202603211820/8763fa2ad9808de722b1e0181b307d6e/v3/09ac9c7fc4e27ee49d1b34b49ff84884/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32112463_s3858765502.mp3"
+      },
+      {
+        "name": "喜剧之王",
+        "addr": "https://webfs.kugou.com/202603211820/1a399583580fd6d83a90a2a9c3c62cbc/v3/49449c010341b77bf795d5a9fbce5b3c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27765108_s730626326.mp3"
+      },
+      {
+        "name": "对等关系",
+        "addr": "https://webfs.kugou.com/202603211820/ec87d308841ec0f2b134fc2e585397c4/v3/8477473e196c9d9873f95100b2cd4948/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx356291401_s3384668839.mp3"
+      },
+      {
+        "name": "作曲家",
+        "addr": "https://webfs.kugou.com/202603211820/30f3b8f3338d9fa537301f1dd6c8787f/v3/4eb376bb611dc797661b393b1014e0d6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27767690_s1472305654.mp3"
+      },
+      {
+        "name": "海陆风",
+        "addr": "https://webfs.kugou.com/202603211820/393f04fdba14dc16e090ad64b2161e06/v3/9ca760758be8d1844a51d98e6d0a7e43/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx668660195_s586690016.mp3"
+      },
+      {
+        "name": "默 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/b5d3ded61fe0334ce98647e1736c082b/v3/7b778542d5b285e8f7884028f7b2ee15/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx329672526_s1899306783.mp3"
+      },
+      {
+        "name": "太坦白",
+        "addr": "https://webfs.kugou.com/202603211820/7e25e7deb3819394e69d145dd6ee21af/v3/2ebe763ede09227dddc434adedc4fede/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32112462_s294757176.mp3"
+      },
+      {
+        "name": "不搭",
+        "addr": "https://webfs.kugou.com/202603211820/93f403ca5b0693212fce1c45d2e54e74/v3/e7e8c048d286e34330258d64becb10a6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27765111_s3961781203.mp3"
+      },
+      {
+        "name": "黑马",
+        "addr": "https://webfs.kugou.com/202603211820/24cb0abe28bbb572bbc771169771c1ef/v3/15a621e3497824a4bee8fd32506a2646/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx626182648_s4173136823.mp3"
+      },
+      {
+        "name": "名字",
+        "addr": "https://webfs.kugou.com/202603211820/f1ea3e0c546f05659fedffeda196eb50/v3/5c09e595ae0b889980a6d8a75bc386ef/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx621442433_s2699546781.mp3"
+      },
+      {
+        "name": "有理想",
+        "addr": "https://webfs.kugou.com/202603211820/a485e7e6dd5cf50898e3e1717379a6ae/v3/2e3aeddf4ef255fb97bc0eb7962f7678/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx32585338_s2951775978.mp3"
+      },
+      {
+        "name": "不说 (路过版)",
+        "addr": "https://webfs.kugou.com/202603211820/5bdba5e115bfffac3fdc4f661af97a23/v3/169eb65f22b15f2a8fa469af34d1d3ed/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx99525711_s2003444032.mp3"
+      },
+      {
+        "name": "落俗",
+        "addr": "https://webfs.kugou.com/202603211820/4de0b58f09744a73c677f420482f41d8/v3/139732bc15b15c04f1f633cc18b1f56c/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx27767717_s4117915351.mp3"
+      },
+      {
+        "name": "山川",
+        "addr": "https://webfs.kugou.com/202603211820/cf8f75db4778785195e69e001241762f/v3/15bea9d3924c04034af4cc817e95fec9/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx337949616_s3154094806.mp3"
+      }
+    ]
+  },
+  {
+    "name": "周深",
+    "songs": [
+      {
+        "name": "修星星的人",
+        "addr": "https://webfs.kugou.com/202603211820/21e0dacedc82fa5dfc63c8dc1f7901e2/v3/f3ea5b6728cf1a4df5e5876687664b98/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx854995532_s4162431933.mp3"
+      },
+      {
+        "name": "吉量",
+        "addr": "https://webfs.kugou.com/202603211820/b3ab66aac990a3bc094b64076029be52/v3/c5a8b5a97b8ab4d75d5e60c8f0b1ad6f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx844775462_s1704684408.mp3"
+      },
+      {
+        "name": "小美满",
+        "addr": "https://webfs.kugou.com/202603211820/a64d5aa466f118982b6470b8e03c619a/v3/04a21db1ab3c8e0d1d8f51f11bdb03a1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx595775928_s223316845.mp3"
+      },
+      {
+        "name": "云裳羽衣曲",
+        "addr": "https://webfs.kugou.com/202603211820/fe713431356339c89e342571268e83f8/v3/934d8e4d8819632e2a5bdb22dc8fb2e8/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx111390753_s3630024916.mp3"
+      },
+      {
+        "name": "若梦",
+        "addr": "https://webfs.kugou.com/202603211820/2636f0ba683dbc34ffb11e52412ff6c3/v3/5c947eec7fd807c4e67e249fedad4b76/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx295877541_s1044753174.mp3"
+      },
+      {
+        "name": "大鱼",
+        "addr": "https://webfs.kugou.com/202603211820/789e7678c7d005ec16ef3706f61125fa/v3/bfbdd3df47727b701d4480ea36a8f73b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx38641536_s3413777124.mp3"
+      },
+      {
+        "name": "璀璨冒险人",
+        "addr": "https://webfs.kugou.com/202603211820/8d9f9e211e7a815506404ed8410ae8be/v3/4dbec6e678a64159fceec7de47de6b65/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx517818693_s2898598608.mp3"
+      },
+      {
+        "name": "起风了",
+        "addr": "https://webfs.kugou.com/202603211820/fa6fb5f8c6268b7599c8ad6eaeaabb38/v3/cd0af377206daaacaee61b76d32360a3/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx264086632_s2217800243.mp3"
+      },
+      {
+        "name": "背着山的人",
+        "addr": "https://webfs.kugou.com/202603211820/b661633b7eec2ef1f2aeb87d72b11a3f/v3/611e8f05f5d68636f40a08b1b5e6f2d5/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx851085335_s856150872.mp3"
+      },
+      {
+        "name": "光亮",
+        "addr": "https://webfs.kugou.com/202603211820/ffb02d733c18eae4485ea401c821e811/v3/06b6eb59d9a7b626d6fa8fb1d9bf839b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx347929497_s828973344.mp3"
+      },
+      {
+        "name": "达拉崩吧 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/b1def1299c61b6d63a3e712bd34e957b/v3/4ebb8c2ee30e5f27e203358b9937cc37/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx252215062_s3715807249.mp3"
+      },
+      {
+        "name": "怜悯 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/762fa748b4f2c51f607fc764f1dd0df6/v3/ea68514e6c0038db40de38797b28f75f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx821399622_s4029320506.mp3"
+      },
+      {
+        "name": "瞳 (出类拔萃)",
+        "addr": "https://webfs.kugou.com/202603211820/4b6a4be1f8b7111a77cffa86de5db5a6/v3/c57313df259166d11faab2c96c5934a9/yp/full/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx258101465_s3910764220.mp3"
+      },
+      {
+        "name": "歌曲：吉量",
+        "addr": "https://webfs.kugou.com/202603211820/a56fe387382e81c81a87144086917753/v3/c093ab367badcaa4382bbf272a79f378/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx844839592_s899083521.mp3"
+      },
+      {
+        "name": "亲爱的旅人啊",
+        "addr": "https://webfs.kugou.com/202603211820/62cc35672b56ecce177ff30a3393ea1a/v3/f45c2e04457695fc5ba3216e7ac538ef/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx162936515_s772984987.mp3"
+      },
+      {
+        "name": "谜宫",
+        "addr": "https://webfs.kugou.com/202603211820/0dadb87596f48911fbeb1cc30ff2f6aa/v3/b650e3342926749256b203451a7ed2ee/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx839338515_s1421959911.mp3"
+      },
+      {
+        "name": "聊聊",
+        "addr": "https://webfs.kugou.com/202603211820/4dd59fd1fceff3ddd92fbaccdabff409/v3/fdac3c2a323be5d798203a6d39b4c31f/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx792027545_s321437989.mp3"
+      },
+      {
+        "name": "梅香如故",
+        "addr": "https://webfs.kugou.com/202603211816/56f44d4e2a322b16a60afc8c5762d267/v3/981b5c81cfe1d96cea4423ce76f41eb7/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx115034746_s1306291507.mp3"
+      },
+      {
+        "name": "全世界下雨 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/a05c6b7cd63cb22070e7efe777bc1b24/v3/982dc3d460f9efb6e730e9df0af96f9a/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx825900153_s2432514059.mp3"
+      },
+      {
+        "name": "人是_",
+        "addr": "https://webfs.kugou.com/202603211820/76ed70f8e295c4ec718f6b8cc22305c2/v3/5f9556e415f4e62562fad1770e506874/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx477425085_s3559174374.mp3"
+      },
+      {
+        "name": "花开忘忧",
+        "addr": "https://webfs.kugou.com/202603211820/0c5c79877abe5a79a5d33b5cb3f4f6c1/v3/d56829b960f16427899ee933a67f6f85/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx440824787_s2837008604.mp3"
+      },
+      {
+        "name": "总有美好在路上",
+        "addr": "https://webfs.kugou.com/202603211820/9c46cd3fc17a3623ec1cd265d918d9c1/v3/f787d05c61262d44f4eb6c92d68bbdd6/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx709588986_s1642336458.mp3"
+      },
+      {
+        "name": "化身孤岛的鲸",
+        "addr": "https://webfs.kugou.com/202603211820/fff3389f45148f7b94ef674f1b39cf1f/v3/52003ddb5b251e2f8a19eaf43e1ce3e1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx268593052_s3250919120.mp3"
+      },
+      {
+        "name": "梦见你",
+        "addr": "https://webfs.kugou.com/202603211820/8201223995cf73459cfaba0ecbce9d9d/v3/be2a9553b0b93acec6134066272e8de3/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx756842547_s1933832358.mp3"
+      },
+      {
+        "name": "爱丽丝卿 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/9a985e3e2000881d51a708e6f898cca6/v3/0ddbed093ef719b90096f12406dee76b/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx813429364_s2832913096.mp3"
+      },
+      {
+        "name": "自诩周全 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/e69d9d23de90751960663685e2fa66dd/v3/8269fa6df323fb404492368e6284f5ce/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx804778323_s1022656954.mp3"
+      },
+      {
+        "name": "和光同尘",
+        "addr": "https://webfs.kugou.com/202603211820/b00c80b38704de60f97d4b41f1af40d6/v3/0f5086e1567a52de6672f3b91e2f31ed/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx286341953_s3329654293.mp3"
+      },
+      {
+        "name": "天下有情人 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/b3f9c6b6f8d4caa8c0551bbdf8abfe88/v3/c8022f144e3876a17bae6fff736a1be2/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx246425258_s133813194.mp3"
+      },
+      {
+        "name": "借过一下",
+        "addr": "https://webfs.kugou.com/202603211820/aa45565d40d25b64a9bd1a8d37b35030/v3/4693af8a63f1e3288516d4ee250c26d1/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx631191956_s1725589949.mp3"
+      },
+      {
+        "name": "地球没有你 (Live)",
+        "addr": "https://webfs.kugou.com/202603211820/5f64f92a589dd3e4bfad98b89e6afea6/v3/402984c1311125479dbee4424f327145/yp/full/ap1014_us950136206_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx823790797_s2789855313.mp3"
+      }
+    ]
+  }
+]
