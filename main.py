@@ -22,16 +22,17 @@ tab1.ele('css:#secoundContent .homep_d1_d2 .homep_d1_d2_d1 .homep_d1_d2_d1_a1:nt
 def wait(x):
     global search1,search2,old,url
     if x=="song":
-        t=0
         while True:
             search2= BeautifulSoup(tab2.html, 'html.parser')
             audio_tag = search2.find(id="myAudio")
             url=audio_tag.get('src')
             time.sleep(0.1)
-            t+=0.1
-            if url=="" and t>1.5:
+            if search2.find(class_="ui-dialog playsong")!=None:
+                tab2.ele('css:.ui-dialog-close').click()
+                tab2.ele('css:#list.icon.list').click()
+                url=""
                 break
-            if url!=old and url!="":
+            if url!=old:
                 old=url
                 break
     elif x=="home":
@@ -50,12 +51,14 @@ time.sleep(3)
 tab2 = browser.latest_tab
 tab2.wait.load_start()
 tab2.ele('css:#list.icon.list').click()
-old='54188'
+old=''
 #播放页爬取
 for i in range(30):
     tab2.ele(f'css:#musicbox .musiclist li:nth-of-type({i+1})').click()
     wait("song")
     #爬取ing
+    if url=="":
+        continue
     names = search2.find_all('span', class_='musiclist-songname-txt')
     name=names[i].get('title')
     data.append({"name":name,"addr":url})
